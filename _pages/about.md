@@ -1,8 +1,7 @@
 ---
-title: "About"
 permalink: /about/
-layout: single
-author_profile: true
+title: "About"
+toc: true
+toc_sticky: true
+toc_label: "MYSELF"
 ---
-
-test

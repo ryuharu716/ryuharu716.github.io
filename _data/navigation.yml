@@ -1,26 +1,10 @@
 # main links
 main:
-  - title: "Categories"
-    url: /categories/
+  #- title: "Home"
+  #  url: "/"
+  - title: "Introduce"
+    url: /about/
+  - title: "Category"
+    url: "/categories/"
   - title: "Tags"
     url: /tags/
-  - title: "Archive"
-    url: /year-archive/
-  - title: "About"
-    url: /about/
-
-extensions:
-  - title: "Categories"
-    children:
-      - title: "TIL"
-        url: /categories/til/
-      - title: "Python"
-        url: /categories/python/
-      - title: "Machine Learning"
-        url: /categories/machinelearning/
-      - title: "Deep Learning"
-        url: /categories/deeplearning/
-      - title: "Git"
-        url: /categories/git/
-      - title: "ETC"
-        url: /categories/etc/
